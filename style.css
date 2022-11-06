@@ -1,0 +1,22 @@
+body{
+  margin:100px;
+}
+input{
+  width: 50%;
+  outline:none;
+  padding: 10px 10px 10px 30px;
+  border-radius: 5px;
+  border: 1px solid #eee;
+}
+.input-icons svg {
+  position: absolute;
+
+}
+.input-icons {
+  margin-bottom: 10px;
+}
+
+.icon {
+  padding: 10px;
+  
+}
